@@ -1,6 +1,6 @@
 # ReactGallery
 
-  * This is a demo for React Component
+ * This is a playground to demo React Components
 
 # How to run
  * npm run dev
