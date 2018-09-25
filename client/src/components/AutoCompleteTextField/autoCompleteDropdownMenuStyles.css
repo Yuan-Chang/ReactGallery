@@ -1,0 +1,26 @@
+#autoCompleteDropdownMenu .menu {
+  position: absolute;
+  width: 150px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  z-index: 1000; }
+  #autoCompleteDropdownMenu .menu .row {
+    padding: 5px;
+    display: flex;
+    color: black;
+    border-bottom: 1px solid lightgray;
+    margin: 0px;
+    background: white;
+    z-index: 1000;
+    justify-content: center; }
+  #autoCompleteDropdownMenu .menu .row:hover {
+    cursor: pointer; }
+  #autoCompleteDropdownMenu .menu .selectColor {
+    background: cornflowerblue; }
+
+#autoCompleteDropdownMenu .inputDiv {
+  width: auto;
+  display: inline-block;
+  visibility: hidden;
+  position: fixed;
+  overflow: auto; }

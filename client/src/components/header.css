@@ -1,0 +1,10 @@
+
+#header .title{
+    background: dodgerblue;
+    color: white;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}

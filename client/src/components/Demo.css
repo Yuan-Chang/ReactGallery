@@ -1,0 +1,17 @@
+
+#demo .title {
+    margin-top: 10px;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#demo .component {
+    padding: 10px;
+}
+
+#demo .line {
+    background: cornflowerblue;
+    height: 2px;
+    width: 130px;
+}
