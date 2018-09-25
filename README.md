@@ -2,5 +2,5 @@
 
  * This is a playground to demo React Components
 
-# How to run
+# how to run
  * npm run dev
