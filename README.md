@@ -1,5 +1,6 @@
-# React-web-sample
+# ReactGallery
 
-  * This is the react web sample to show how we put fond-end and back-end structures together.
+  * This is a demo for React Component
 
-  * It integrated webpack, redux, redux-thunk and the npm run scripts to build production index.html.
+# How to run
+ * npm run dev
